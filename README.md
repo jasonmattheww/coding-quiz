@@ -14,4 +14,5 @@ https://jasonmattheww.github.io/coding-quiz/
 
 ## Code Source
 
+This repo helped me get a better understanding of how to use certain functions and also how to structure my code.
 https://github.com/stephje/javascript-quiz
